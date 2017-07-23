@@ -1,0 +1,21 @@
+# These are the depenencies needed to install Electrum for command-line use only
+# on Raspian Jessie Lite
+dpkg: python-pkg-resources
+dpkg: python-chardet
+pypi: setuptools
+pypi: wheel 
+pypi: pip
+pypi: six
+pypi: certifi
+pypi: idna
+pypi: urllib3
+pypi: chardet
+pypi: requests
+pypi: PySocks
+pypi: dnspython
+pypi: ecdsa
+pypi: jsonrpclib
+pypi: pbkdf2
+pypi: protobuf
+pypi: pyaes
+pypi: qrcode
